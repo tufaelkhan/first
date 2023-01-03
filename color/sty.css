@@ -1,0 +1,45 @@
+h3{
+
+}
+p{
+
+}
+.para{}
+h3{}
+p{}
+span{
+}
+.list ul li{
+    display: inline;
+    color: brown;
+    text-align: center;
+    background-color: rgb(75, 139, 139);
+    padding: 5px;
+    margin: auto;
+    font-weight: 600;
+    font-size: x-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+.ollist ol li{
+    display: inline;
+    color: aqua;
+    background-color: rgb(135, 128, 128);
+
+}
+.ollist ol li ul{
+    color: burlywood;
+    background-color: aqua;
+    padding: 7px;
+    margin: 5px;
+    font-weight: 900;
+    font-size: x-large;
+    font-family: cursive;
+}
+a{
+    text-decoration: none;
+    background: rgb(213, 26, 26);
+    font-weight: 900;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size-adjust: initial;
+}
